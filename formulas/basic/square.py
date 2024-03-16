@@ -1,7 +1,15 @@
 # Find area of a square
-def area(a):
-    """Calculates area of a square"""
-    return a ** 2
+def area(side):
+    """
+        This function returns the area of square with the provided input.
+
+        Parameters:
+        side (float): Length of a side of square.
+
+        Returns:
+        float: area of the square
+    """
+    return side ** 2.0
 
 
 # Find perimeter of a square

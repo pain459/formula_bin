@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c676a513-2fae-4312-8591-a7958c415323" name="Changes" comment="Updated README.md">
-      <change afterPath="$PROJECT_DIR$/formulas/basic/triangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/basic/test_triangle.py" afterDir="false" />
+    <list default="true" id="c676a513-2fae-4312-8591-a7958c415323" name="Changes" comment="Triangle formula and tests added.">
+      <change afterPath="$PROJECT_DIR$/formulas/basic/trapezoid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/basic/test_trapezoid.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formulas/basic/square.py" beforeDir="false" afterPath="$PROJECT_DIR$/formulas/basic/square.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +122,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710562800179</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Triangle formula and tests added.">
+      <option name="closed" value="true" />
+      <created>1710563220877</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710563220877</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -129,6 +138,7 @@
     <MESSAGE value="1. Folder design changed.&#10;2. Tests moved to individual folders and files." />
     <MESSAGE value="1. Square formulas and tests added." />
     <MESSAGE value="Updated README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated README.md" />
+    <MESSAGE value="Triangle formula and tests added." />
+    <option name="LAST_COMMIT_MESSAGE" value="Triangle formula and tests added." />
   </component>
 </project>
