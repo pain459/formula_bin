@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c676a513-2fae-4312-8591-a7958c415323" name="Changes" comment="Introduction to unit tests.">
+    <list default="true" id="c676a513-2fae-4312-8591-a7958c415323" name="Changes" comment="1. Unit tests moved to correct locations. &#10;2. README.md file updated with instructions.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/unit_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/basic/two_dimensional/unit_tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/basic/two_dimensional/unit_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/basic/two_dimensional/unit_tests.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -292,7 +290,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710587726015</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="1. Unit tests moved to correct locations. &#10;2. README.md file updated with instructions.">
+      <option name="closed" value="true" />
+      <created>1710588878365</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1710588878365</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -312,6 +318,7 @@
     <MESSAGE value="Updated README.md with build command." />
     <MESSAGE value="Typo corrections and writing unit tests." />
     <MESSAGE value="Introduction to unit tests." />
-    <option name="LAST_COMMIT_MESSAGE" value="Introduction to unit tests." />
+    <MESSAGE value="1. Unit tests moved to correct locations. &#10;2. README.md file updated with instructions." />
+    <option name="LAST_COMMIT_MESSAGE" value="1. Unit tests moved to correct locations. &#10;2. README.md file updated with instructions." />
   </component>
 </project>
