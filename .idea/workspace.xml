@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c676a513-2fae-4312-8591-a7958c415323" name="Changes" comment="cone.py and test_cone.py added.">
-      <change afterPath="$PROJECT_DIR$/formulas/basic/three_dimentional/sphere.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/basic/three_dimentional/test_sphere.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="c676a513-2fae-4312-8591-a7958c415323" name="Changes" comment="sphere formulas added.">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -239,7 +237,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710577628207</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="sphere formulas added.">
+      <option name="closed" value="true" />
+      <created>1710578441079</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1710578441079</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -255,6 +261,7 @@
     <MESSAGE value="1. 3d objects formulas.&#10;2. cube calculations added." />
     <MESSAGE value="cylinder.py and test_cylinder.py added." />
     <MESSAGE value="cone.py and test_cone.py added." />
-    <option name="LAST_COMMIT_MESSAGE" value="cone.py and test_cone.py added." />
+    <MESSAGE value="sphere formulas added." />
+    <option name="LAST_COMMIT_MESSAGE" value="sphere formulas added." />
   </component>
 </project>
