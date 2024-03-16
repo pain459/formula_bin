@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c676a513-2fae-4312-8591-a7958c415323" name="Changes" comment="1. 3d objects formulas.&#10;2. cube calculations added.">
-      <change afterPath="$PROJECT_DIR$/formulas/basic/three_dimentional/cylinder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/basic/three_dimentional/test_cylinder.py" afterDir="false" />
+    <list default="true" id="c676a513-2fae-4312-8591-a7958c415323" name="Changes" comment="cylinder.py and test_cylinder.py added.">
+      <change afterPath="$PROJECT_DIR$/formulas/basic/three_dimentional/cone.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/basic/three_dimentional/test_cone.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +38,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.cone.executor": "Run",
     "Python.rectangle.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -50,7 +51,29 @@
       <recent name="$PROJECT_DIR$/formulas/basic/2d" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.cone">
+    <configuration name="cone" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="formula_bin" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/formulas/basic/three_dimentional" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/formulas/basic/three_dimentional/cone.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="rectangle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="formula_bin" />
       <option name="ENV_FILES" value="" />
@@ -75,6 +98,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.cone" />
         <item itemvalue="Python.rectangle" />
       </list>
     </recent_temporary>
@@ -175,7 +199,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710572624422</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="cylinder.py and test_cylinder.py added.">
+      <option name="closed" value="true" />
+      <created>1710573422564</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1710573422564</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -189,6 +221,7 @@
     <MESSAGE value="Cleanup and folder reorg." />
     <MESSAGE value="1. Created requirements.txt and listed the requirements.&#10;2. imported requirements.txt into setup.py" />
     <MESSAGE value="1. 3d objects formulas.&#10;2. cube calculations added." />
-    <option name="LAST_COMMIT_MESSAGE" value="1. 3d objects formulas.&#10;2. cube calculations added." />
+    <MESSAGE value="cylinder.py and test_cylinder.py added." />
+    <option name="LAST_COMMIT_MESSAGE" value="cylinder.py and test_cylinder.py added." />
   </component>
 </project>
