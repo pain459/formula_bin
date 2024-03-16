@@ -1,4 +1,4 @@
-from formulas.basic import square
+from formulas.basic.two_dimentional import square
 
 
 def test_square_area():

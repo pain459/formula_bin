@@ -1,4 +1,4 @@
-from formulas.basic import circle
+from formulas.basic.two_dimentional import circle
 
 
 def test_area_circle():
