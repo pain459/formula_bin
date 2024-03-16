@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c676a513-2fae-4312-8591-a7958c415323" name="Changes" comment="Updated unit_tests.py with rectangle cases.">
-      <change afterPath="$PROJECT_DIR$/formulas/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/formulas/basic/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/basic/three_dimensional/unit_tests.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,9 +26,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2dkiAyF5Mrt8pcwyTmERZaoZOIV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -40,6 +37,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests in unit_tests.py (1).executor": "Run",
     "Python tests.Python tests in unit_tests.py.executor": "Run",
     "Python.cone.executor": "Run",
     "Python.rectangle.executor": "Run",
@@ -58,7 +56,7 @@
       <recent name="$PROJECT_DIR$/tests/basic/2d" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests in unit_tests.py">
+  <component name="RunManager" selected="Python tests.Python tests in unit_tests.py (1)">
     <configuration name="cone" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="formula_bin" />
       <option name="ENV_FILES" value="" />
@@ -125,6 +123,21 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests in unit_tests.py (1)" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="formula_bin" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/basic/three_dimensional" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/basic/three_dimensional/unit_tests.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Python tests in unit_tests.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="formula_bin" />
       <option name="ENV_FILES" value="" />
@@ -142,6 +155,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests in unit_tests.py (1)" />
         <item itemvalue="Python tests.Python tests in unit_tests.py" />
         <item itemvalue="Python.sphere" />
         <item itemvalue="Python.cone" />
