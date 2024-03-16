@@ -1,4 +1,4 @@
-from formulas.basic.three_dimentional import cube
+from formulas.basic.three_dimensional import cube
 
 
 def test_surface_area():

@@ -1,4 +1,4 @@
-from formulas.basic.two_dimentional import rectangle
+from formulas.basic.two_dimensional import rectangle
 
 
 def test_rectangle_perimeter():

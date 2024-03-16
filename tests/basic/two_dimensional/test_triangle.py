@@ -1,4 +1,4 @@
-from formulas.basic.two_dimentional import triangle
+from formulas.basic.two_dimensional import triangle
 
 
 def test_area_triangle():

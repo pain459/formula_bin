@@ -1,4 +1,4 @@
-from formulas.basic.three_dimentional import cone
+from formulas.basic.three_dimensional import cone
 
 
 def test_curved_surface_area():

@@ -1,4 +1,4 @@
-from formulas.basic.three_dimentional import cylinder
+from formulas.basic.three_dimensional import cylinder
 
 
 def test_curved_surface_area():

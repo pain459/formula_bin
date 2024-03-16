@@ -1,4 +1,4 @@
-from formulas.basic.three_dimentional import sphere
+from formulas.basic.three_dimensional import sphere
 
 
 def test_surface_area():

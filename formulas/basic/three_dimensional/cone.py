@@ -45,9 +45,3 @@ def volume(radius, height):
     :return: volume of cone
     """
     return (1.0 / 3.0) * pi * (radius ** 2) * height
-
-
-print(curved_surface_area(12.89, 56.9))
-print(surface_area_with_curved_length(45.87, 33.98))
-print(surface_area_of_cone_without_curved_length(32.90, 11.34))
-print(volume(21.8, 33.33))

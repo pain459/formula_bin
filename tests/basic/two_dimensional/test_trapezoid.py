@@ -1,4 +1,4 @@
-from formulas.basic.two_dimentional import trapezoid
+from formulas.basic.two_dimensional import trapezoid
 
 
 def test_area_trapezoid():

@@ -13,3 +13,7 @@ def area(radius):
         float: area of the circle
     """
     return pi * (radius ** 2)
+
+
+def circumference(radius):
+    return 2 * pi * radius
