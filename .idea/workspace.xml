@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c676a513-2fae-4312-8591-a7958c415323" name="Changes" comment="1. Unit tests moved to correct locations. &#10;2. README.md file updated with instructions.">
+    <list default="true" id="c676a513-2fae-4312-8591-a7958c415323" name="Changes" comment="Updated unit_tests.py with rectangle cases.">
+      <change afterPath="$PROJECT_DIR$/formulas/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/formulas/basic/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/basic/two_dimensional/unit_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/basic/two_dimensional/unit_tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -298,7 +301,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710588878365</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Updated unit_tests.py with rectangle cases.">
+      <option name="closed" value="true" />
+      <created>1710589066263</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1710589066263</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -319,6 +330,7 @@
     <MESSAGE value="Typo corrections and writing unit tests." />
     <MESSAGE value="Introduction to unit tests." />
     <MESSAGE value="1. Unit tests moved to correct locations. &#10;2. README.md file updated with instructions." />
-    <option name="LAST_COMMIT_MESSAGE" value="1. Unit tests moved to correct locations. &#10;2. README.md file updated with instructions." />
+    <MESSAGE value="Updated unit_tests.py with rectangle cases." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated unit_tests.py with rectangle cases." />
   </component>
 </project>

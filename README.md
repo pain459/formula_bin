@@ -11,3 +11,9 @@
 ###### To run unittests
 `$ python -m unittest tests/unit_tests.py`
 Unit tests directory can change as required.
+
+###### To run code coverage
+`$ pytest --cov=formulas` package name will do
+
+###### To create coverage report
+`$ coverage html`
