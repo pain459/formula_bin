@@ -4,32 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c676a513-2fae-4312-8591-a7958c415323" name="Changes" comment="Updated README.md with build command.">
-      <change afterPath="$PROJECT_DIR$/tests/basic/two_dimensional/unit_tests.py" afterDir="false" />
+    <list default="true" id="c676a513-2fae-4312-8591-a7958c415323" name="Changes" comment="Typo corrections and writing unit tests.">
+      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/basic/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/formulas/basic/three_dimentional/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/formulas/basic/three_dimensional/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/formulas/basic/three_dimentional/cone.py" beforeDir="false" afterPath="$PROJECT_DIR$/formulas/basic/three_dimensional/cone.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/formulas/basic/three_dimentional/cube.py" beforeDir="false" afterPath="$PROJECT_DIR$/formulas/basic/three_dimensional/cube.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/formulas/basic/three_dimentional/cylinder.py" beforeDir="false" afterPath="$PROJECT_DIR$/formulas/basic/three_dimensional/cylinder.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/formulas/basic/three_dimentional/sphere.py" beforeDir="false" afterPath="$PROJECT_DIR$/formulas/basic/three_dimensional/sphere.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/formulas/basic/two_dimentional/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/formulas/basic/two_dimensional/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/formulas/basic/two_dimentional/circle.py" beforeDir="false" afterPath="$PROJECT_DIR$/formulas/basic/two_dimensional/circle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/formulas/basic/two_dimentional/rectangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/formulas/basic/two_dimensional/rectangle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/formulas/basic/two_dimentional/square.py" beforeDir="false" afterPath="$PROJECT_DIR$/formulas/basic/two_dimensional/square.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/formulas/basic/two_dimentional/trapezoid.py" beforeDir="false" afterPath="$PROJECT_DIR$/formulas/basic/two_dimensional/trapezoid.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/formulas/basic/two_dimentional/triangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/formulas/basic/two_dimensional/triangle.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/basic/three_dimentional/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/basic/three_dimensional/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/basic/three_dimentional/test_cone.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/basic/three_dimensional/test_cone.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/basic/three_dimentional/test_cube.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/basic/three_dimensional/test_cube.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/basic/three_dimentional/test_cylinder.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/basic/three_dimensional/test_cylinder.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/basic/three_dimentional/test_sphere.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/basic/three_dimensional/test_sphere.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/basic/two_dimentional/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/basic/two_dimensional/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/basic/two_dimentional/test_circle.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/basic/two_dimensional/test_circle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/basic/two_dimentional/test_rectangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/basic/two_dimensional/test_rectangle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/basic/two_dimentional/test_square.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/basic/two_dimensional/test_square.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/basic/two_dimentional/test_trapezoid.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/basic/two_dimensional/test_trapezoid.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/basic/two_dimentional/test_triangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/basic/two_dimensional/test_triangle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/basic/two_dimensional/unit_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/unit_tests.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +51,9 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tests" />
+      <recent name="$PROJECT_DIR$/tests/basic" />
+      <recent name="$PROJECT_DIR$/tests/basic/tests" />
       <recent name="$PROJECT_DIR$/tests/basic/2d" />
       <recent name="$PROJECT_DIR$/formulas/basic/2d" />
     </key>
@@ -153,7 +136,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/basic/two_dimensional/unit_tests.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/unit_tests.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
@@ -294,7 +277,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710578551831</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Typo corrections and writing unit tests.">
+      <option name="closed" value="true" />
+      <created>1710586155450</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1710586155450</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -312,6 +303,7 @@
     <MESSAGE value="cone.py and test_cone.py added." />
     <MESSAGE value="sphere formulas added." />
     <MESSAGE value="Updated README.md with build command." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated README.md with build command." />
+    <MESSAGE value="Typo corrections and writing unit tests." />
+    <option name="LAST_COMMIT_MESSAGE" value="Typo corrections and writing unit tests." />
   </component>
 </project>
