@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c676a513-2fae-4312-8591-a7958c415323" name="Changes" comment="Typo corrections and writing unit tests.">
-      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/basic/__init__.py" afterDir="false" />
+    <list default="true" id="c676a513-2fae-4312-8591-a7958c415323" name="Changes" comment="Introduction to unit tests.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/basic/two_dimensional/unit_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/unit_tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/unit_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/basic/two_dimensional/unit_tests.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,11 +50,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tests/basic/two_dimensional" />
       <recent name="$PROJECT_DIR$/tests" />
       <recent name="$PROJECT_DIR$/tests/basic" />
       <recent name="$PROJECT_DIR$/tests/basic/tests" />
       <recent name="$PROJECT_DIR$/tests/basic/2d" />
-      <recent name="$PROJECT_DIR$/formulas/basic/2d" />
     </key>
   </component>
   <component name="RunManager" selected="Python tests.Python tests in unit_tests.py">
@@ -136,7 +135,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/unit_tests.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/basic/two_dimensional/unit_tests.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
@@ -285,7 +284,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710586155450</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Introduction to unit tests.">
+      <option name="closed" value="true" />
+      <created>1710587726015</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1710587726015</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -304,6 +311,7 @@
     <MESSAGE value="sphere formulas added." />
     <MESSAGE value="Updated README.md with build command." />
     <MESSAGE value="Typo corrections and writing unit tests." />
-    <option name="LAST_COMMIT_MESSAGE" value="Typo corrections and writing unit tests." />
+    <MESSAGE value="Introduction to unit tests." />
+    <option name="LAST_COMMIT_MESSAGE" value="Introduction to unit tests." />
   </component>
 </project>

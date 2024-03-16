@@ -1,5 +1,5 @@
 import unittest
-from formulas.basic.two_dimensional import circle, rectangle
+from formulas.basic.two_dimensional import circle, rectangle, square, trapezoid
 
 
 class TestTwoDimensional(unittest.TestCase):
@@ -10,6 +10,14 @@ class TestTwoDimensional(unittest.TestCase):
     def test_rectangle(self):
         self.assertEqual(rectangle.area(32.5, 44.6), 1449.5)
         self.assertEqual(rectangle.perimeter(32.5, 44.6), 154.2)
+
+    def test_square(self):
+        self.assertEqual(square.area(12.5), 156.25)
+        self.assertEqual(square.perimeter(12.5), 50.0)
+
+    def test_trapezoid(self):
+        self.assertEqual(trapezoid.area(
+            13.67, 44.76, 34.8), 1016.6819999999999)
 
 
 if __name__ == '__main__':
