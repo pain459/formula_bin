@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c676a513-2fae-4312-8591-a7958c415323" name="Changes" comment="Cleanup and folder reorg.">
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    <list default="true" id="c676a513-2fae-4312-8591-a7958c415323" name="Changes" comment="1. Created requirements.txt and listed the requirements.&#10;2. imported requirements.txt into setup.py">
+      <change afterPath="$PROJECT_DIR$/formulas/basic/three_dimentional/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/formulas/basic/three_dimentional/cube.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/basic/three_dimentional/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/basic/three_dimentional/test_cube.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,7 +161,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710565025525</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="1. Created requirements.txt and listed the requirements.&#10;2. imported requirements.txt into setup.py">
+      <option name="closed" value="true" />
+      <created>1710567449733</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1710567449733</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -171,6 +181,7 @@
     <MESSAGE value="1. Doc strings format added.&#10;2. Trapezoid calculation and tests added." />
     <MESSAGE value="1. Circle formula and test cases added." />
     <MESSAGE value="Cleanup and folder reorg." />
-    <option name="LAST_COMMIT_MESSAGE" value="Cleanup and folder reorg." />
+    <MESSAGE value="1. Created requirements.txt and listed the requirements.&#10;2. imported requirements.txt into setup.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="1. Created requirements.txt and listed the requirements.&#10;2. imported requirements.txt into setup.py" />
   </component>
 </project>
