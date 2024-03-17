@@ -6,7 +6,9 @@ with open('requirements.txt') as f:
 setup(
     name='formula_bin',
     packages=find_packages(include=['formulas']),
+    # packages=find_packages(),
     version='0.1.0',
+    package_data={'formula-bin': ['formulas/basic']},
     description='Formula implementations in Python',
     author='Pain',
     install_requires=requirements,

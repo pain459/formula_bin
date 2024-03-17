@@ -17,3 +17,11 @@ Unit tests directory can change as required.
 
 ###### To create coverage report
 `$ coverage html`
+
+###### Usage
+```
+from formulas.basic.two_dimensional import circle
+
+x = circle.area(345.9)
+print(x)
+```
