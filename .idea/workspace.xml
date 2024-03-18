@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c676a513-2fae-4312-8591-a7958c415323" name="Changes" comment="1. Updated the setup.py with changes to include directories.&#10;2. Updated README.md with code snips.">
+    <list default="true" id="c676a513-2fae-4312-8591-a7958c415323" name="Changes" comment="Version update.">
+      <change afterPath="$PROJECT_DIR$/formulas/convert/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/formulas/convert/length.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +23,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -34,19 +42,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests in unit_tests.py (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in unit_tests.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cone.executor&quot;: &quot;Run&quot;,
-    &quot;Python.rectangle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sphere.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/ravik/PycharmProjects/formula_bin&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests in unit_tests.py (1).executor": "Run",
+    "Python tests.Python tests in unit_tests.py.executor": "Run",
+    "Python.cone.executor": "Run",
+    "Python.rectangle.executor": "Run",
+    "Python.sphere.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "convert__functions",
+    "last_opened_file_path": "/home/ravik/PycharmProjects/formula_bin"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/tests/basic/two_dimensional" />
@@ -339,7 +347,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710645939315</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Version update.">
+      <option name="closed" value="true" />
+      <created>1710646319513</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1710646319513</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -363,6 +379,7 @@
     <MESSAGE value="Updated unit_tests.py with rectangle cases." />
     <MESSAGE value="1. created unit_tests.py for three_dimensional formulas." />
     <MESSAGE value="1. Updated the setup.py with changes to include directories.&#10;2. Updated README.md with code snips." />
-    <option name="LAST_COMMIT_MESSAGE" value="1. Updated the setup.py with changes to include directories.&#10;2. Updated README.md with code snips." />
+    <MESSAGE value="Version update." />
+    <option name="LAST_COMMIT_MESSAGE" value="Version update." />
   </component>
 </project>
