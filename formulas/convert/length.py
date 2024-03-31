@@ -103,7 +103,7 @@ def yard_to_meter(x):
 def mile_to_meter(x):
     """
     Function to convert mile to meter
-    :param x:
-    :return:
+    :param x: input in mile
+    :return: converted to meter
     """
     return 1.609344 * kilometer_to_meter(x)
