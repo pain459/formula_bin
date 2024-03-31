@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c676a513-2fae-4312-8591-a7958c415323" name="Changes" comment="Version update.">
-      <change afterPath="$PROJECT_DIR$/formulas/convert/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/formulas/convert/length.py" afterDir="false" />
+    <list default="true" id="c676a513-2fae-4312-8591-a7958c415323" name="Changes" comment="New branch and length formulas started.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formulas/convert/length.py" beforeDir="false" afterPath="$PROJECT_DIR$/formulas/convert/length.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,19 +40,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests in unit_tests.py (1).executor": "Run",
-    "Python tests.Python tests in unit_tests.py.executor": "Run",
-    "Python.cone.executor": "Run",
-    "Python.rectangle.executor": "Run",
-    "Python.sphere.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "convert__functions",
-    "last_opened_file_path": "/home/ravik/PycharmProjects/formula_bin"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests in unit_tests.py (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in unit_tests.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cone.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rectangle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sphere.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;convert__functions&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/ravik/PycharmProjects/formula_bin&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/tests/basic/two_dimensional" />
@@ -174,7 +172,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-d68999036c7f-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.14475.56" />
+        <option value="bundled-python-sdk-09665e90c3a7-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15026.15" />
       </set>
     </attachedChunks>
   </component>
@@ -355,7 +353,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710646319513</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="New branch and length formulas started.">
+      <option name="closed" value="true" />
+      <created>1710728292997</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1710728292997</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -380,6 +386,7 @@
     <MESSAGE value="1. created unit_tests.py for three_dimensional formulas." />
     <MESSAGE value="1. Updated the setup.py with changes to include directories.&#10;2. Updated README.md with code snips." />
     <MESSAGE value="Version update." />
-    <option name="LAST_COMMIT_MESSAGE" value="Version update." />
+    <MESSAGE value="New branch and length formulas started." />
+    <option name="LAST_COMMIT_MESSAGE" value="New branch and length formulas started." />
   </component>
 </project>
